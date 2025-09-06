@@ -52,6 +52,44 @@ struct SwiftLayout: View {
             
             Spacer()
         }.padding()
+        
+//        ZStack {
+//            Button("Click Me!") {
+//                print("Hellowww")
+//            }
+//            VStack {
+//                Button("Click Me!") {
+//                    print("Hellowww")
+//                }
+//                Button("Click Me!") {
+//                    print("Hellowww")
+//                }
+//                HStack {
+//                    
+//                    Button("Click Me!") {
+//                        print("Hellowww")
+//                    }
+//                    Button("Click Me!") {
+//                        print("Hellowww")
+//                    }
+//                    Button("Click Me!") {
+//                        print("Hellowww")
+//                    }
+//                    Image(systemName: "house.slash.fill")
+//                }
+//                HStack {
+//                    Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/)
+//                    Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/)
+//                    Image(systemName: "house.slash.fill")
+//                }
+//                HStack {
+//                    Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/)
+//                    Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/)
+//                    Image(systemName: "house.slash.fill")
+//                }
+//            }
+//        }
+        
     }
 }
 

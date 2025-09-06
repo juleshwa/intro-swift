@@ -23,6 +23,8 @@ struct SwiftText: View {
                 .font(.body)
         }
         .padding(25)
+        
+        Text("This is a multi-line text example. It will wrap onto the next line if the text is too long to fit in one line.").foregroundColor(.pink).font(.largeTitle).lineLimit(nil).padding(30)
     }
 }
 
